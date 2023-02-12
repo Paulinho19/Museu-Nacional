@@ -1,2 +1,2 @@
 # Museu-Nacional
- Página principal de um site fictício do museu nacional
+Template para um site sobre museu
